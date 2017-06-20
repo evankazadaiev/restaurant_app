@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1463620387 source:d:\otchetpodz\van\populatearrays.cpp
+	"stdio.h"
+	"populateArrays.h"
+
+1463614737 d:\otchetpodz\van\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<tchar.h>
+
+1463625339 d:\otchetpodz\van\targetver.h
+
+1463616423 d:\otchetpodz\van\populatearrays.h
+	"stdafx.h"
+
+1463620387 source:d:\otchetpodz\van\printbill.cpp
+	"stdio.h"
+	"printBill.h"
+
+1463616543 d:\otchetpodz\van\printbill.h
+	"stdafx.h"
+
+1463614737 source:d:\otchetpodz\van\stdafx.cpp
+	"stdafx.h"
+
+1463620200 source:d:\otchetpodz\van\van.cpp
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+	"populateArrays.h"
+	"printBill.h"
+
